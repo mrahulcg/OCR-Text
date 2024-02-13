@@ -1,8 +1,5 @@
 # OCR-Text
 
-# OCR & Real-time Text Detection
-Real-time OCR with openCV EAST & Tesseract.<br/>
-
 _Requires openCV 3.4.2 or above._<br/>
 _Requires Tesseract 4.0 or above._
 
