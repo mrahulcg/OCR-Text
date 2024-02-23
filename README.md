@@ -5,6 +5,8 @@ _Requires Tesseract 4.0 or above._
 
 https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-5.3.3.20231005.exe
 
+https://github.com/oyyd/frozen_east_text_detection.pb/blob/master/frozen_east_text_detection.pb
+
 ## Real Time OCR
 For text recognition on a live web-cam feed:
 ```commandline
